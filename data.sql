@@ -1,4 +1,4 @@
-USE riderdb;
+USE motodb;
 
 INSERT INTO riders (rider_id, name, motorcycle_plate)
 VALUES (1, 'Meghan', '1002'), (2, 'keza', '2003'), (3, 'Mwizerwa', '2002');

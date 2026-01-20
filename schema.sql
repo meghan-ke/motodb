@@ -1,4 +1,4 @@
-CREATE DATABASE riderdb;
+CREATE DATABASE motodb;
 USE motodb;
 
 CREATE TABLE riders (
