@@ -1,6 +1,6 @@
 -- rider_id = 3 has had the most revenue today
 
-USE motodb;
+USE riderdb;
 
 SELECT * FROM trips INNER JOIN riders ON trips.rider_id = riders.rider_id;
 
